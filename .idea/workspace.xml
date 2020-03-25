@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dbc66a4-11d0-4201-bf10-ed18c87b8098" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="package.json" />
+        <option value="vue" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1U6HYhE8bZwZnNzii9Hs5L3qOnF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86134\Desktop\开发文档\vuexxxx\src\components" />
+      <recent name="C:\Users\86134\Desktop\开发文档\vuexxxx\src" />
+      <recent name="C:\Users\86134\Desktop\demo\static" />
+      <recent name="C:\Users\86134\Desktop\vue2-admin-lte-master\src\components" />
+      <recent name="C:\Users\86134\Desktop\vue2-admin-lte-master\static\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86134\Desktop\demo\public" />
+      <recent name="C:\Users\86134\Desktop\vue2-admin-lte-master\src\pages" />
+      <recent name="C:\Users\86134\Desktop\vue2-admin-lte-master\src\components\add" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dbc66a4-11d0-4201-bf10-ed18c87b8098" name="Default Changelist" comment="" />
+      <created>1574670173446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574670173446</updated>
+      <workItem from="1574670174688" duration="3448000" />
+      <workItem from="1574695756858" duration="3735000" />
+      <workItem from="1574728026128" duration="10830000" />
+      <workItem from="1574749968755" duration="9843000" />
+      <workItem from="1574772906699" duration="5708000" />
+      <workItem from="1574782485752" duration="1404000" />
+      <workItem from="1574814412673" duration="11086000" />
+      <workItem from="1574836054067" duration="10987000" />
+      <workItem from="1574862046853" duration="7422000" />
+      <workItem from="1574905161205" duration="17201000" />
+      <workItem from="1574938161731" duration="5462000" />
+      <workItem from="1574953313621" duration="5120000" />
+      <workItem from="1574958839607" duration="103000" />
+      <workItem from="1574992971098" duration="11328000" />
+      <workItem from="1575019290837" duration="1445000" />
+      <workItem from="1575026917198" duration="6477000" />
+      <workItem from="1575034791143" duration="3699000" />
+      <workItem from="1575081381116" duration="10456000" />
+      <workItem from="1575104324330" duration="600000" />
+      <workItem from="1575252808904" duration="771000" />
+      <workItem from="1575269159398" duration="426000" />
+      <workItem from="1575277928101" duration="929000" />
+      <workItem from="1575333231327" duration="829000" />
+      <workItem from="1575334640139" duration="6000" />
+      <workItem from="1575337118873" duration="1894000" />
+      <workItem from="1575375894286" duration="62000" />
+      <workItem from="1575381088571" duration="483000" />
+      <workItem from="1575425643005" duration="1387000" />
+      <workItem from="1575447201661" duration="3438000" />
+      <workItem from="1575451995606" duration="3000" />
+      <workItem from="1575513184965" duration="24000" />
+      <workItem from="1575515386389" duration="1067000" />
+      <workItem from="1575518191494" duration="2421000" />
+      <workItem from="1575527851642" duration="10387000" />
+      <workItem from="1575539705333" duration="2500000" />
+      <workItem from="1575542391018" duration="217000" />
+      <workItem from="1575543920127" duration="3483000" />
+      <workItem from="1575592544173" duration="10413000" />
+      <workItem from="1575604213676" duration="3710000" />
+      <workItem from="1575614139538" duration="10276000" />
+      <workItem from="1575646522256" duration="1619000" />
+      <workItem from="1575686327482" duration="6733000" />
+      <workItem from="1575706952849" duration="17137000" />
+      <workItem from="1575726360627" duration="58000" />
+      <workItem from="1575786053809" duration="12582000" />
+      <workItem from="1575814847402" duration="6052000" />
+      <workItem from="1575851931136" duration="9580000" />
+      <workItem from="1575861712916" duration="590000" />
+      <workItem from="1575873346039" duration="6602000" />
+      <workItem from="1575881161389" duration="1343000" />
+      <workItem from="1575939067354" duration="7000" />
+      <workItem from="1575939240252" duration="275000" />
+      <workItem from="1575940534543" duration="20000" />
+      <workItem from="1575940841487" duration="10000" />
+      <workItem from="1575987834733" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
